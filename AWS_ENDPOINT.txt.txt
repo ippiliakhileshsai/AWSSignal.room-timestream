@@ -1,0 +1,11 @@
+AWS IoT Endpoint:
+a11nnr24z6692d-ats.iot.eu-north-1.amazonaws.com
+
+Region:
+eu-north-1
+
+Thing:
+signal-room-simulator
+
+MQTT Topic:
+signal-room/data
